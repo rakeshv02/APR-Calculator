@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apr.tabutility.com/sitemap.xml
